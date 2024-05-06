@@ -7,9 +7,9 @@ A simple androiod application Tamagotchi built with Android studio
 The application simulates a virtual pet that a user can ineract with, by feeding it, cleaning it, and playing with it and the happy,hungry and clean status is updated based on how the user interacts with the tamagotchi.
 
 ## features 
-- A PLAY butoon that increases the tamagotchi's happiness to 100% when pressed and changes the image to happy Tamgotchi.
+- A PLAY button that increases the tamagotchi's happiness to 100% when pressed and changes the image to happy Tamagotchi.
 - A FEED button that increases the tamagotchi's hunger status to 100% when pressed and changes the image to a eating Tamagotchi.
-- A CLEAN button that increases the Tamagotchi's clealiness to 100% when pressed and changes the image to a clean tamagotchi.
+- A CLEAN button that increases the Tamagotchi's cleanliness to 100% when pressed and changes the image to a clean tamagotchi.
 
 ## Requirements
 - Android Studio (latest version)
