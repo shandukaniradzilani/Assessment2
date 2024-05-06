@@ -1,13 +1,16 @@
 #### youtube link: https://youtu.be/vpRPFwNlgzU
 
  # Tamagotchi APP 
-A virtual pet APP that needs constant care or it will pass.
+A simple androiod application Tamagotchi built with Android studio
 
-## Features
-A hungry, clean and happy meter that updates the virtual pet owner's wellness of their pet.
--
--
--
+## overview
+The application simulates a virtual pet that a user can ineract with, by feeding it, cleaning it, and playing with it and the happy,hungry and clean status is updated based on how the user interacts with the tamagotchi.
+
+## features 
+- A PLAY butoon that increases the tamagotchi's happiness to 100% when pressed and changes the image to happy Tamgotchi.
+- A FEED button that increases the tamagotchi's hunger status to 100% when pressed and changes the image to a eating Tamagotchi.
+- A CLEAN button that increases the Tamagotchi's clealiness to 100% when pressed and changes the image to a clean tamagotchi.
+
 ## Requirements
 - Android Studio (latest version)
 - Android SDK
@@ -21,7 +24,6 @@ A hungry, clean and happy meter that updates the virtual pet owner's wellness of
 
 ## Usage
 
-1. Launch the app.
-2. Enter an age in the input field.
-3. Click the "Submit" button.
-4. The app will display the name of a famous person who lived to that age or longer.
+1.launch the APP
+2. Press play 
+3. Interact with the Tamagotchi buy using the clean,feed and play button
